@@ -30,7 +30,7 @@ p
 {
 	border-top: 0;
 	padding-top: 0;
-	padding-top: 400px;
+	padding-top: 360px;
 	text-align: center;
 	color: white;
 }
@@ -44,7 +44,7 @@ h1
 	margin: 0;
 	font-weight: normal;
 	text-transform: uppercase;
-	padding: 20px 0;
+	padding: 5px 0;
 }
 
 #navbar
